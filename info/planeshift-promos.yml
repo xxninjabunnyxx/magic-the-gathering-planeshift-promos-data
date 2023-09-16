@@ -1,0 +1,18 @@
+---
+object: set
+id: 7110534f-7944-45f8-9b93-19240253201b
+code: ppls
+name: Planeshift Promos
+uri: https://api.scryfall.com/sets/7110534f-7944-45f8-9b93-19240253201b
+scryfall_uri: https://scryfall.com/sets/ppls
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Appls&unique=prints
+released_at: '2001-02-05'
+set_type: promo
+card_count: 1
+parent_set_code: pls
+digital: false
+nonfoil_only: false
+foil_only: true
+block_code: inv
+block: Invasion
+icon_svg_uri: https://svgs.scryfall.io/sets/pls.svg?1694404800
